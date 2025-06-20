@@ -37,17 +37,6 @@ Estudiante de Ingeniería de Software en la Universidad Veracruzana con enfoque 
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-<!--   <img height="160px" src="https://github-readme-stats.vercel.app/api?username=brayanmtzzz&show_icons=true&hide_border=true&line_height=22&theme=github_dark" /> -->
-<!--   <img height="160px" src="https://streak-stats.demolab.com?user=brayanmtzzz&theme=github-dark&hide_border=true" /> -->
-<!--   <img src="https://github-profile-trophy.vercel.app/?username=brayanmtzzz&theme=darkhub&no-frame=true&margin-w=10" /> -->
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brayanmtzzz&layout=compact&hide_border=true&theme=github_dark" />
-</div>
-
----
-
 ## Contacto
 
 - brayananuharmtz11@gmail.com  
